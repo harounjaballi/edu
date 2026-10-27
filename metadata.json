@@ -1,0 +1,6 @@
+{
+  "name": "EduSpace — Plateforme d'Enseignement en Ligne",
+  "description": "Plateforme LMS professionnelle multi-rôles (Super Administrateur, Professeur, Élève) avec gestion des cours, documents, messagerie temps réel, visioconférences Jitsi Meet et suivi pédagogique sur PostgreSQL.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
